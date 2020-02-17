@@ -138,7 +138,7 @@
 
 .title {
     font-size: 40px;
-    font-family: poppins
+    font-family: poppins;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 80px;
@@ -152,6 +152,10 @@
     width: 40px;
     background-color: #6195ff;
     margin: 20px auto 0;
+  }
+
+  .single_feature{
+    cursor: default;
   }
 
   .single_service {

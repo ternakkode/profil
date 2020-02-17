@@ -287,7 +287,7 @@ Proses pembelajaran untuk D3 Sistem Informasi UB dirancang untuk berada dalam in
     <footer id="footer" class="site-footer uk-section uk-section-small">
                 <div class="copyrights">
                     <div class="uk-container uk-container-large">
-                        <span data-uk-scrollspy="cls: uk-animation-slide-bottom-small; delay: 200;" class="uk-scrollspy-inview uk-animation-slide-bottom-small" style="color: white;">2019 © HIMMASI All rights reserved. Designed & Developed by <a href="https://twitter.com/makmumtarawih">Muhammad Firhan</a></span>
+                        <span data-uk-scrollspy="cls: uk-animation-slide-bottom-small; delay: 200;" class="uk-scrollspy-inview uk-animation-slide-bottom-small" style="color: white;"><?= date("Y") ?> © HIMMASI All rights reserved. Designed & Developed by <a href="https://twitter.com/makmumtarawih">Muhammad Firhan</a></span>
                     </div>
                 </div>
             </footer>
